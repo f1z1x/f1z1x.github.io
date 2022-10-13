@@ -1,3 +1,7 @@
 .main-text{
-    color: #fffedf;
+    color: #ff0000;
+}
+
+.main-text:hover {
+    cursor: progress;
 }
