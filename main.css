@@ -15,8 +15,5 @@ body {
 #center {
     background-color: #332d47;
     display: flex;
-}
-
-#avatar {
     margin: auto;
 }
