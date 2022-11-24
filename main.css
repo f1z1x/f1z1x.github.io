@@ -16,14 +16,14 @@ body {
     background-color: #332d47;
     display: flex;
     margin: auto;
-    width: 80%;
-    height: 90%;
+    width: 75%;
+    height: 86%;
     border-radius: 15px;
 }
 
 #avatar {
     position: relative;
-    left: 50%;
-    top: 10%;
+    margin: auto + 10%;
+    margin-top: 10px;
     border-radius: 50%;
 }
