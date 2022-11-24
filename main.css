@@ -3,3 +3,10 @@ body {
     padding: 0;
     background-color: #1a142f;
 }
+
+#main-box {
+    align-items: center;
+    display: flex;
+    height: 80%;
+    width: 50%;
+}
