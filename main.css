@@ -24,4 +24,5 @@ body {
 #avatar {
     display: flex;
     margin: auto;
+    border-radius: 50%;
 }
