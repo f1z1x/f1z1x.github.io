@@ -22,7 +22,8 @@ body {
 }
 
 #avatar {
-    display: flex;
-    margin: auto;
+    position: relative;
+    left: 50%;
+    top: 10%;
     border-radius: 50%;
 }
