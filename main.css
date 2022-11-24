@@ -23,7 +23,7 @@ body {
 
 #avatar {
     position: relative;
-    margin: auto + 10%;
+    margin: auto;
     margin-top: 10px;
     border-radius: 50%;
 }
