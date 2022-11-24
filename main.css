@@ -1,12 +1,20 @@
+html, 
 body {
     margin: 0;
-    padding: 0;
-    background-color: #1a142f;
 }
 
-#main-box {
-    align-items: center;
+#holder {
+    background-color: #1a142f;
     display: flex;
-    height: 80%;
-    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+#center {
+    background-color: #332d47;
+    display: flex;
+}
+
+#avatar {
+    margin: auto;
 }
