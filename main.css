@@ -24,7 +24,6 @@
 }
 
 #avatar {
-    background-color: red;
     position: absolute;
     margin-top: 5%;
 }
@@ -34,11 +33,12 @@
 }
 
 #nick {
-    background-color: yellowgreen;
     position: absolute;
     margin-top: 22%;
 }
 
-#nick p {
+#nick h1 {
     font-family: 'PT Sans', sans-serif;
+    font-size: 27px;
+    color: #707070;
 }
