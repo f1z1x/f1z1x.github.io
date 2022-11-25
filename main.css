@@ -28,3 +28,8 @@ body {
 #avatar img {
     border-radius: 50%;
 }
+
+#nick {
+    margin: auto;
+    margin-top: 7%;
+}
