@@ -15,7 +15,6 @@ body {
 #center {
     background-color: #332d47;
     display: flex;
-    margin: auto;
     width: 75%;
     height: 86%;
     border-radius: 15px;
@@ -27,8 +26,6 @@ body {
     margin-top: 10px;
 }
 
-#nick {
-    position: relative;
-    margin: auto;
-    margin-top: 120px;
+#avatar img {
+    border-radius: 50%;
 }
