@@ -7,9 +7,8 @@
     background-color: #1a142f;
     width: 100vw;
     height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: grid;
+    place-items: center;
 }
 
 #center {
@@ -18,11 +17,12 @@
     height: 86%;
     border-radius: 20px;
     display: grid;
+    place-items: center;
 }
 
 #avatar {
-    margin: auto;
-    margin-top: 7%;
+    display: grid;
+    place-items: center;
     background-color: red;
 }
 
@@ -31,6 +31,5 @@
 }
 
 #nick {
-    margin: auto;
     background-color: yellowgreen;
 }
