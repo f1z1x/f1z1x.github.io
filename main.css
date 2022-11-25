@@ -32,13 +32,18 @@
     border-radius: 50%;
 }
 
-#nick {
+#tittle {
     position: absolute;
     margin-top: 22%;
+    font-family: 'PT Sans', sans-serif;
 }
 
 #nick h1 {
-    font-family: 'PT Sans', sans-serif;
     font-size: 27px;
-    color: #707070;
+    color: #c7b8c9;
+}
+
+#short-info h2 {
+    font-size: 22px;
+    color: #968499;
 }
