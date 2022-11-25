@@ -17,12 +17,13 @@
     width: 75%;
     height: 86%;
     border-radius: 20px;
-    display: flex;
+    display: grid;
 }
 
 #avatar {
     margin: auto;
     margin-top: 7%;
+    background-color: red;
 }
 
 #avatar img {
@@ -31,5 +32,5 @@
 
 #nick {
     margin: auto;
-    margin-top: 7%;
+    background-color: yellowgreen;
 }
