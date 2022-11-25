@@ -33,16 +33,16 @@
 }
 
 #nick h1 {
-    position: absolute;
-    margin-top: 22%;
+    text-align: center;
+    margin-top: 48%;
     font-family: 'PT Sans', sans-serif;
-    font-size: 27px;
+    font-size: 33px;
     color: #c7b8c9;
+
 }
 
 #short-info h2 {
-    position: absolute;
-    margin-top: 22%;
+    text-align: center;
     font-family: 'PT Sans', sans-serif;
     font-size: 22px;
     color: #968499;
