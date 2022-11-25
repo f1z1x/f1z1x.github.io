@@ -14,14 +14,13 @@ body {
 
 #center {
     background-color: #332d47;
-    display: flex;
     width: 75%;
     height: 86%;
-    border-radius: 15px;
+    border-radius: 20px;
+    display: flex;
 }
 
 #avatar {
-    position: relative;
     margin: auto;
     margin-top: 10px;
 }
