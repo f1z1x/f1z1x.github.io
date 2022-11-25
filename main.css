@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -35,4 +37,8 @@
     background-color: yellowgreen;
     position: absolute;
     margin-top: 22%;
+}
+
+#nick p {
+    font-family: 'PT Sans', sans-serif;
 }
