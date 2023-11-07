@@ -9,7 +9,7 @@ p {
   align-items: top;
   flex-wrap: wrap;
   box-sizing: border-box;
-  width: 700px;
+  width: auto;
   height: auto;
   margin: 0 auto;
   padding: 0;
