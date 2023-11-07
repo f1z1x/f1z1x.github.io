@@ -5,9 +5,9 @@ p {
 
 div {
     background: #737373;
-    float: left;
     position: relative;
     width: 30%;
+    left: 35%;
     padding-bottom: 30%;
     margin: 1.66% 1.66% 1.66% 30%;  
 }
