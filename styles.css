@@ -7,7 +7,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: top;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   box-sizing: border-box;
   width: 700px;
   height: auto;
