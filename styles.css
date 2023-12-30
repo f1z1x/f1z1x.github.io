@@ -2,23 +2,3 @@ p {
   font-size: 80px;
   text-align: center;
 }
-
-wrapper {
-    background: #737373;
-    position: relative;
-    float: left;
-    width: 40%;
-    padding-bottom: 30%;
-    margin: 1.66% 1.66% 1.66% 30%;  
-}
-
-div:hover {
-    background: black;
-}
-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 70%;
-    height: 70%;
-}
